@@ -36,8 +36,8 @@ You may also choose to extend pytorch training scripts provided in src/.
 
 Read [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/ldexperiment.html).
 
-1. Plot training procedure in Spatial Domain, i.e. the first figure in [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/ldexperiment.html). (15pt)
-2. Plot training procedure in Fourier Domain, i.e. the second figure in [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/ldexperiment.html). (15pt)
+1. Plot training procedure in Spatial Domain, i.e. the first figure in [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/ldexperiment.html). (10pt)
+2. Plot training procedure in Fourier Domain, i.e. the second figure in [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/ldexperiment.html). (10pt)
 
 You may plot several figures instead of gifs in [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/ldexperiment.html).
 
@@ -45,8 +45,9 @@ You may plot several figures instead of gifs in [F-Principle in low-dim experime
 
 Read [F-Principle in high-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/hdexperiment.html).
 
-Implement the *projection method* **or** the *filtering method* on MNIST dataset.
-Inspect how each response frequency component (e.g. high-frequency and low-frequency) converges. 
+1. Implement the *projection method* **or** the *filtering method* on MNIST dataset.
+2. Describe the procedure of your method using pseudo-code.
+3. Inspect how each response frequency component (e.g. high-frequency and low-frequency) converges.
 You may plot figures or using tables to demostrate your results.
 
 ### 2.3 Summay (10pt)
