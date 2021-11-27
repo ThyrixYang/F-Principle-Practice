@@ -32,7 +32,7 @@ You may modify [F-Principle Github](https://github.com/xuzhiqin1990/F-Principle)
 However, this implementation is based on tf1.x, and the high-dim experiments are not implemented.
 You may also choose to extend pytorch training scripts provided in src/.
 
-### 2.1 Low-dim Experiment (30pt)
+### 2.1 Low-dim Experiment (25pt)
 
 Read [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/ldexperiment.html).
 
@@ -41,10 +41,15 @@ Read [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqi
 
 You may plot several figures instead of gifs in [F-Principle in low-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/ldexperiment.html).
 
-### 2.2 High-dim Experiment (35pt)
+### 2.2 High-dim Experiment (30pt)
 
 Read [F-Principle in high-dim experiments](https://ins.sjtu.edu.cn/people/xuzhiqin/fprinciple/hdexperiment.html).
 
 Implement the *projection method* **or** the *filtering method* on MNIST dataset.
 Inspect how each response frequency component (e.g. high-frequency and low-frequency) converges. 
 You may plot figures or using tables to demostrate your results.
+
+### 2.3 Summay (10pt)
+
+1. What did you learn from this practice problem ? (5pt)
+2. What problems did you encounter and how did you solve them ? (5pt)
